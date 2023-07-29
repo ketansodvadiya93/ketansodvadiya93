@@ -1,4 +1,24 @@
-### Hi there 👋
+- 👋 Hi, I’m Ketan Sodvadiya (@ketansodvadiya93)
+- 👀 I am having more than 8 years of professional mobile application development experience, as well as leading teams of more than 20 people, Along with team leading, I am having good experience in project management with requirement analysis, estimation, planning the delivery, and client communication.
+
+    During these 8 years of the journey, I was working as an iOS Developer and Then get a chance to lead the development of a project, and then now a team leader of various technology projects teams like iOS Mobile applications, Android mobile applications, NodeJS, Flutter, PHP, ReactNative...
+
+    Over this period, I am having knowledge of AWS Clouse Services like EC2, RDS, S3Bucket, Simple Email Services, SNS, Cloud Watch, etc...
+
+    I have worked with Google Cloud services as well like Firestore, Cloud Function, Firebase storage, etc...
+
+    During this journey, I am having deep knowledge of Hosting services providers like Godaddy, Dream Host, and some cloud hosting as well.
+
+    During my journey as a Team leader, I have worked with some Project task management tools like ClickUp, Asana, Trello, Jira, MSPlanner, etc...
+    
+    Over the period I have worked on various projects in Android, IOS and web technology. I have expertise in executing applications for IOS and Android platforms using Native platform approach. In addition to this I have been creating design and architectural documentation.
+- 🤔 I am seeking opportunities for end to end development, Maintenance and Support, Break fixes and Project Management.
+- ✉️ How to reach me ...
+  > I am checking my emails regualorly. So you can email me sodvadiya@gmail.com
+- 🧑🏻‍💻 You can check my profiles on ...
+  - LinkedIn: https://www.linkedin.com/in/ketan-sodvadiya-9a1b11b9
+  - StackOverflow: https://stackoverflow.com/users/4559140/ketan-sodvadiya
+
 
 <!--
 **ketansodvadiya93/ketansodvadiya93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
